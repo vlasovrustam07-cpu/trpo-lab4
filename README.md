@@ -15,4 +15,4 @@ Pull Request после Code Review.
 
 | Участник | Ветка | Что сделано |
 |----------|-------|-------------|
-| rystia | `feature/vlasov` | Добавлен файл `feature.txt`, обновлён README |
+| rystia | `feature/vlasov` | Добавлен файл [feature.txt](feature.txt), обновлён README |
